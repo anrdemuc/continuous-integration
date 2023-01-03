@@ -38,6 +38,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+
 endstep0-->
 
 <!--
@@ -48,7 +49,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Add a test workflow</h2></summary>
 
 _Welcome to "GitHub Actions: Continuous Integration"! :wave:_
@@ -181,7 +182,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
 _Great job uploading test reports! :partying_face:_
